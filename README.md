@@ -1,7 +1,6 @@
-# Content Creation for the Web
+# Web Content Creation Workshop
 
-# Sable Cantus
-# http://cantus.us/
+Sable Cantus
 
 This presentation is a training tool that will be used in training workshops with Rio Hondo College faculty and staff to help them start rewriting content for their part of the campus website.
 
