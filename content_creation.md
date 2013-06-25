@@ -1,11 +1,10 @@
 % Content Creation Guidelines
-% 2013 Rio Hondo Website Refresh
 % Sable Cantus & Zulma Calderon
-
+% 2013 Rio Hondo Website Refresh
 
 # Please Sign In
 
-Please sign in at riohondo.edu/its/signin
+Please sign in at [riohondo.edu/its/signin](http://www.riohondo.edu/its/signin)
 
 Use your browser or one in the back
 
@@ -39,7 +38,7 @@ Today we will:
 
 Navigate to your area of the website.
 
-![Rio Hondo Website](images/riohondo.png)
+<img src="images/riohondo.png" height=600px>
 
 # A Plain Text Editor
 
@@ -196,8 +195,10 @@ You can work with your team using online tools to collaborate efficiently withou
 
 # Resources
 
-- [Workshop Handouts (pdf download)](images/handouts.pdf)
+- [Workshop Handouts (pdf download)](assets/handouts.pdf)
 - [Usability.gov](http://www.usability.gov/methods/design_site/writing4web.html)
 - [Writing in a Readable Style](http://www.4syllables.com.au/resources/web-writing-tips/readable-writing/) (*your handout*)
 - [How to Write Great Website Content](http://blogcritics.org/how-to-write-great-website-content/)
 - [Test Your Documents Readability in Word](http://office.microsoft.com/en-us/word-help/test-your-document-s-readability-HP010148506.aspx#BM1)
+
+<meta name="duration" content="45" />
