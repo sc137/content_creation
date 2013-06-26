@@ -40,7 +40,7 @@ Navigate to your area of the website.
 - TextEdit
 - [Draftin.com](http://draftin.com)
 
-![](http://1.bp.blogspot.com/-1JNerCiQ2x0/TfdrvnzFxYI/AAAAAAAAASA/6-gUESeQqq4/s400/notepad-screen.gif)
+<img src="images/notepad.png">
 
 **Turn on Word Wrap**
 
@@ -132,11 +132,13 @@ The campus website should be your communication tool. People will come to your s
 
 # Structure Your Text
 
-Make use of **bold headings**, short paragraphs, bullet lists and tables if the information requires it. 
+- Make use of **bold headings**, short paragraphs, bullet lists and tables if the information requires it. 
 
-To better organize your thoughts, divide your article into sub-headings. Sub-headings make things easier to digest. 
 
-Instead of tackling the entire article at once, try writing one paragraph at a time.
+- To better organize your thoughts, divide your article into sub-headings. Sub-headings make things easier to digest. 
+
+
+- Instead of tackling the entire article at once, try writing one paragraph at a time.
 
 
 
@@ -148,6 +150,19 @@ This is not required, but may be used to help you analyze your content.
 
 <img src="images/readability.png" width=650px>
 
+
+# What's the Score?
+
+The [Flesch Reading Ease](https://en.wikipedia.org/wiki/Flesch-Kincaid_Readability_Test) score can be used to identify the age at which an audience will be able to understand your writing.
+
+    Score 		Notes
+    90.0–100.0 	easily understood by an average 11-year-old student
+    60.0–70.0 	easily understood by 13- to 15-year-old students
+    0.0–30.0 	best understood by university graduates
+
+How do they calculate this?
+
+<img src="images/fk.png">
 
 # Enable Readability Statistics in Word
 
