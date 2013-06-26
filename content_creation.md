@@ -2,12 +2,6 @@
 % Sable Cantus & Zulma Calderon
 % 2013 Rio Hondo Website Refresh
 
-# Please Sign In
-
-Please sign in at [riohondo.edu/its/signin](http://www.riohondo.edu/its/signin)
-
-Use your browser or one in the back
-
 # Creating Content for the Web
 
 Thank you for being here today!
@@ -200,5 +194,6 @@ You can work with your team using online tools to collaborate efficiently withou
 - [Writing in a Readable Style](http://www.4syllables.com.au/resources/web-writing-tips/readable-writing/) (*your handout*)
 - [How to Write Great Website Content](http://blogcritics.org/how-to-write-great-website-content/)
 - [Test Your Documents Readability in Word](http://office.microsoft.com/en-us/word-help/test-your-document-s-readability-HP010148506.aspx#BM1)
+- [The Oatmeal: When to Use an Apostrophe](http://theoatmeal.com/comics/apostrophe)
 
 <meta name="duration" content="45" />
