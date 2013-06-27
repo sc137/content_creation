@@ -12,14 +12,8 @@ You are the experts in your area. You know what is going on. You know what your 
 
 ![](images/checkmark.jpg)
 
-This presentation is available at [riohondo.edu/its/content_creation](http://www.riohondo.edu/its/content_creation)
-
 
 # What to Expect Today
-
-We are going to talk about creating good content for your campus website. Writing good content is not the same as good design or good formatting.
-
-Today we will:
 
 - Talk about good content
 - Talk about identifying our target audience
@@ -28,11 +22,9 @@ Today we will:
 - Take some time to work
 
 
-# Current State of Affairs
+# Find Your Area
 
-Navigate to your area of the website.
-
-<img src="images/riohondo.png" height=600px>
+<img src="images/riohondo.png">
 
 # A Plain Text Editor
 
@@ -42,8 +34,6 @@ Navigate to your area of the website.
 
 <img src="images/notepad.png">
 
-**Turn on Word Wrap**
-
 *Why use something so simple when we have word?*
 
 # Focus
@@ -51,8 +41,6 @@ Navigate to your area of the website.
 <img src="images/simple-focus.jpg" width=800px>
 
 # Start With An Outline
-
-> Let's use the IT website as a simple example. This site completely focuses on content.
 
 **ITS Homepage**
 
@@ -78,11 +66,7 @@ Navigate to your area of the website.
 [ITS Website](http://www.riohondo.edu/its)
 
 
-# Who Are You Writing For?
-
-> The IT website is focused on college faculty and staff. 
-
-**Who is your audience?**
+# Who Is Your Audience?
 
 - students
 - faculty
@@ -91,11 +75,7 @@ Navigate to your area of the website.
 - adult learners
 - ???
 
-# Respect Your Audience
-
-The campus website should be your communication tool. People will come to your site looking for *something*. Make that *something* front and center.
-
-**Why do people visit your website?**
+# What Are They Looking For?
 
 * Location
 * Office Hours
@@ -103,14 +83,13 @@ The campus website should be your communication tool. People will come to your s
 * Download Documents
 * ???
 
-# Does Your Website Look Like Lings?
+# Don't Look Like Ling!
 
 <img src="images/lingscars.png">
 
 [Ling missed his training day](http://www.riohondo.edu/its/content_creation)
 
-
-# Some Tips to Work With
+# Try These...
 
 * Write like a journalist by putting the important information up front with links to further details
 * Write concisely and in plain english
@@ -120,7 +99,7 @@ The campus website should be your communication tool. People will come to your s
 
 # Help Readers Scan
 
-> *from [Usability.gov](http://www.usability.gov/methods/design_site/writing4web.html)*
+>> *from [Usability.gov](http://www.usability.gov/methods/design_site/writing4web.html)*
 
 * Use headings and sub-headings
 * Write short sentences
@@ -144,12 +123,9 @@ The campus website should be your communication tool. People will come to your s
 
 # Test Your Content's Readability
 
-After you have been writing your content in notepad. You may paste it into Microsoft Word and use the Readability Statistics feature.
-
-This is not required, but may be used to help you analyze your content.
+Try pasting your content into Microsoft Word and use the Readability Statistics feature.
 
 <img src="images/readability.png" width=650px>
-
 
 # What's the Score?
 
@@ -181,11 +157,11 @@ Review &raquo; Spelling & Grammar
 
 # Review, Review, Review, Refresh
 
-Review your content before you publish.
+* Review your content before you publish
 
-Get someone else to read your content and check if it "makes sense" to them.
+* Does your content "make sense" to someone else?
 
-Make yourself a reminder to go through your site and make sure the content is current.
+* Make yourself a reminder to go through your site and make sure the content is current
 
 <img src="images/reminder.gif" width=250px>
 
@@ -202,11 +178,13 @@ You can work with your team using online tools to collaborate efficiently withou
 
 # Thank You
 
+This presentation is available at [riohondo.edu/its/content_creation](http://www.riohondo.edu/its/content_creation)
+
 # Resources
 
 - [Workshop Handouts (pdf download)](assets/handouts.pdf)
 - [Usability.gov](http://www.usability.gov/methods/design_site/writing4web.html)
-- [Writing in a Readable Style](http://www.4syllables.com.au/resources/web-writing-tips/readable-writing/) (*your handout*)
+- [Writing in a Readable Style](http://www.4syllables.com.au/resources/web-writing-tips/readable-writing/)
 - [How to Write Great Website Content](http://blogcritics.org/how-to-write-great-website-content/)
 - [Test Your Documents Readability in Word](http://office.microsoft.com/en-us/word-help/test-your-document-s-readability-HP010148506.aspx#BM1)
 - [The Oatmeal: When to Use an Apostrophe](http://theoatmeal.com/comics/apostrophe)
