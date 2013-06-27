@@ -1,1 +1,1 @@
-pandoc -t html5 --template=revealjs.template --standalone --section-divs --variable theme="beige" --variable transition="linear" content_creation.md -o slides.html
+pandoc -t html5 --template=revealjs.template --standalone --section-divs --variable theme="beige" --variable transition="linear" content_creation.md -o index.html

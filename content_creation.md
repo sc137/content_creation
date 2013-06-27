@@ -137,7 +137,7 @@ File &raquo; Options &raquo; Proofing &raquo; Enable Readability Statistics
 <img src="images/options.jpg" width=650px>
 
 
-### Use the Spelling & Grammar Tool
+## Use the Spelling & Grammar Tool
 
 Review &raquo; Spelling & Grammar
 
