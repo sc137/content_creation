@@ -1,19 +1,18 @@
-% Content Creation Guidelines
+% Content Creation
 % Sable Cantus & Zulma Calderon
 % 2013 Rio Hondo Website Refresh
 
-# Creating Content for the Web
+## Creating Content for the Web
 
 Thank you for being here today!
 
 Your work is **very important!**
-
-You are the experts in your area. You know what is going on. You know what your audience is looking for when they visit your website.
-
+ 
 ![](images/checkmark.jpg)
 
+*Let's get started!*
 
-# What to Expect Today
+## What to Expect Today
 
 - Talk about good content
 - Talk about identifying our target audience
@@ -22,11 +21,11 @@ You are the experts in your area. You know what is going on. You know what your 
 - Take some time to work
 
 
-# Find Your Area
+## Find Your Area
 
 <img src="images/riohondo.png">
 
-# A Plain Text Editor
+## A Plain Text Editor
 
 - Notepad
 - TextEdit
@@ -36,37 +35,34 @@ You are the experts in your area. You know what is going on. You know what your 
 
 *Why use something so simple when we have word?*
 
-# Focus
+## Focus
 
 <img src="images/simple-focus.jpg" width=800px>
 
-# Start With An Outline
+## Start With An Outline
 
-**ITS Homepage**
+    Home
+      - Welcome and About ITS
+    Help Desk
+      - Contact Info
+      - How to access the help desk
+        - How to Write a Good Help Desk Ticket
+    Audio / Visual
+      - Contact Info
+      - Services Available
+    Training
+      - Contact Info
+      - Scannable Info on areas of training
+      - Past workshop notes
+      - Help Articles on Sidebar
 
-* Welcome and About ITS statement
-
-**Help Desk**
-
-* Contact information at the top and how to access the help desk system
-
-**Audio / Visual**
-
-* Contact Info
-
-**Training**
-
-* Contact Info
-* Headers for specific information (for scanning) and short descriptive paragraphs
-
-# ITS Screenshot
-
+## 
 <img src="images/its.png">
 
 [ITS Website](http://www.riohondo.edu/its)
 
 
-# Who Is Your Audience?
+## Who Is Your Audience?
 
 - students
 - faculty
@@ -75,7 +71,7 @@ You are the experts in your area. You know what is going on. You know what your 
 - adult learners
 - ???
 
-# What Are They Looking For?
+## What Are They Looking For?
 
 * Location
 * Office Hours
@@ -83,13 +79,13 @@ You are the experts in your area. You know what is going on. You know what your 
 * Download Documents
 * ???
 
-# Don't Look Like Ling!
+## Don't Look Like Ling!
 
 <img src="images/lingscars.png">
 
-[Ling missed his training day](http://www.riohondo.edu/its/content_creation)
+*Ling missed his training day*
 
-# Try These...
+## Try These...
 
 * Write like a journalist by putting the important information up front with links to further details
 * Write concisely and in plain english
@@ -97,9 +93,7 @@ You are the experts in your area. You know what is going on. You know what your 
 * Review, review, review
 * Only underline hyperlinks and use **bold** or *italics* sparingly instead for emphasis
 
-# Help Readers Scan
-
->> *from [Usability.gov](http://www.usability.gov/methods/design_site/writing4web.html)*
+## Help Readers Scan
 
 * Use headings and sub-headings
 * Write short sentences
@@ -109,25 +103,21 @@ You are the experts in your area. You know what is going on. You know what your 
 * Add a table of contents at the top of the page and hyperlink the categories to the related content on the page
 * Use white space to visually separate information
 
-# Structure Your Text
+> *from [Usability.gov](http://www.usability.gov/methods/design_site/writing4web.html)*
+
+## Structure Your Text
 
 - Make use of **bold headings**, short paragraphs, bullet lists and tables if the information requires it. 
-
-
 - To better organize your thoughts, divide your article into sub-headings. Sub-headings make things easier to digest. 
-
-
 - Instead of tackling the entire article at once, try writing one paragraph at a time.
 
+## Test Your Content's Readability
 
-
-# Test Your Content's Readability
+<img src="images/readability.png">
 
 Try pasting your content into Microsoft Word and use the Readability Statistics feature.
 
-<img src="images/readability.png" width=650px>
-
-# What's the Score?
+## What's the Score?
 
 The [Flesch Reading Ease](https://en.wikipedia.org/wiki/Flesch-Kincaid_Readability_Test) score can be used to identify the age at which an audience will be able to understand your writing.
 
@@ -140,14 +130,14 @@ How do they calculate this?
 
 <img src="images/fk.png">
 
-# Enable Readability Statistics in Word
+## Enable Readability Statistics in Word
 
 File &raquo; Options &raquo; Proofing &raquo; Enable Readability Statistics
 
 <img src="images/options.jpg" width=650px>
 
 
-# Use the Spelling & Grammar Tool
+### Use the Spelling & Grammar Tool
 
 Review &raquo; Spelling & Grammar
 
@@ -155,32 +145,30 @@ Review &raquo; Spelling & Grammar
 
 
 
-# Review, Review, Review, Refresh
+## Review, Review, Review, Refresh
 
 * Review your content before you publish
-
 * Does your content "make sense" to someone else?
-
 * Make yourself a reminder to go through your site and make sure the content is current
 
 <img src="images/reminder.gif" width=250px>
 
-# Some Tips to Collaborate
+## Some Tips to Collaborate
 
-You can work with your team using online tools to collaborate efficiently without emailing text files back and forth using tools such as:
+You can utilize online tools to collaborate efficiently.
 
 * [Google Docs](http://drive.google.com/)
 * [Draftin.com](http://draftin.com/)
 * [Fargo (for outlining)](http://fargo.io/)
 * [Firepad.io](http://www.firepad.io/)
 
-# Questions?
+## Questions?
 
-# Thank You
+## Thank You
 
 This presentation is available at [riohondo.edu/its/content_creation](http://www.riohondo.edu/its/content_creation)
 
-# Resources
+## Resources
 
 - [Workshop Handouts (pdf download)](assets/handouts.pdf)
 - [Usability.gov](http://www.usability.gov/methods/design_site/writing4web.html)
@@ -188,5 +176,3 @@ This presentation is available at [riohondo.edu/its/content_creation](http://www
 - [How to Write Great Website Content](http://blogcritics.org/how-to-write-great-website-content/)
 - [Test Your Documents Readability in Word](http://office.microsoft.com/en-us/word-help/test-your-document-s-readability-HP010148506.aspx#BM1)
 - [The Oatmeal: When to Use an Apostrophe](http://theoatmeal.com/comics/apostrophe)
-
-<meta name="duration" content="45" />
