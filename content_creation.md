@@ -1,5 +1,5 @@
 % Content Creation
-% Sable Cantus & Zulma Calderon
+% Sable Cantus
 % 2013 Rio Hondo Website Refresh
 
 ## Creating Content for the Web
@@ -170,7 +170,7 @@ This presentation is available at [riohondo.edu/its/content_creation](http://www
 
 ## Resources
 
-- [Workshop Handouts (pdf download)](assets/handouts.pdf)
+- [Workshop Handouts (pdf download by Zulma Calderon)](assets/handouts.pdf)
 - [Usability.gov](http://www.usability.gov/methods/design_site/writing4web.html)
 - [Writing in a Readable Style](http://www.4syllables.com.au/resources/web-writing-tips/readable-writing/)
 - [How to Write Great Website Content](http://blogcritics.org/how-to-write-great-website-content/)
