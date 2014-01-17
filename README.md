@@ -17,3 +17,7 @@ I switched to reveal.js because it just looks **so** good.
     pandoc -t html5 --template=revealjs.template --standalone --section-divs --variable theme="beige" --variable transition="linear" content_creation.md -o index.html
 
 Please feel free to use these resources and materials in your own training.
+
+## Demo
+
+Checkout the [demo](http://sc137.github.io/content_creation/index.html#/) of this right here on gh-pages.
