@@ -20,4 +20,4 @@ Please feel free to use these resources and materials in your own training.
 
 ## Demo
 
-Checkout the [demo](http://sc137.github.io/content_creation/index.html#/) of this right here on gh-pages.
+Checkout the [demo](http://sc137.github.io/content_creation_workshop/) of this right here on gh-pages.
